@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-u9nkd8y5)u*+ci8eht932r%nk08dy_%$&x+&)!g9x@#mo#lfw^
 DEBUG = False
 
 ALLOWED_HOSTS = ['8000-hpesciotti-djangotutori-yviai1rad73.ws.codeinstitute-ide.net',
-                '.herokuapp.com']
+                'https://hello-world-django-hpesciotti-71b51c0b6087.herokuapp.com']
 
 
 # Application definition
